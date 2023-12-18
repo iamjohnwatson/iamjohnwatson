@@ -14,8 +14,8 @@ My journey into the world of data analytics is an ongoing adventure. I believe i
 
 ## 🤝 Let's Connect
 
-- **LinkedIn:** (https://www.linkedin.com/in/akashsriram/))
-- **X/Twitter:** (https://twitter.com/HoodieOnVeshti)
+- **LinkedIn:** https://www.linkedin.com/in/akashsriram/
+- **X/Twitter:** https://twitter.com/HoodieOnVeshti
 
 Feel free to reach out if you have any questions, or collaboration ideas, or just want to connect!
 
