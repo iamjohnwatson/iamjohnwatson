@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a tech reporter for Reuters News, passionate about covering the latest developments in the world of technology. My curiosity and interest in data analytics have led me to explore languages like R, Python, and SQL, enhancing my skills to analyze and interpret data trends and build visualizations.
+I am a tech reporter for Reuters News, passionate about covering the latest developments in the world of technology. My curiosity and interest in data analytics have led me to explore languages like R, Python, and SQL, enhancing my skills to analyze and interpret data trends and build visualizations. I love maps and cartography in general. Making map-based visuals is a favorite pastime!
 
 ## 📰 Tech Reporting
 
